@@ -98,7 +98,7 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		color: #1B262C;
+		color: #121c22;
 		font-family: 'Lato', sans-serif;
 		font-size: 15pt;
 		font-weight: 300;
@@ -326,8 +326,8 @@ input, select, textarea {
 		.row > .col-40 {
 			width: 50%;
 		}
-		.row > .col-40 {
-			width: 50%;
+		.row > .col-5 {
+			width: 100%;
 		}
 
 
@@ -1823,7 +1823,7 @@ input, select, textarea {
 		input[type="password"]:focus,
 		input[type="email"]:focus,
 		textarea:focus {
-			border-color: #83d3c9;
+			border-color: #1B262C;
 		}
 
 	input[type="text"],
@@ -1888,6 +1888,11 @@ input, select, textarea {
 			.image.featured img {
 				display: block;
 				width: 100%;
+			}
+			.image.featured.headshot img {
+				display: block;
+				width: 200px;
+				margin: 0 auto;
 			}
 
 /* Icon */
