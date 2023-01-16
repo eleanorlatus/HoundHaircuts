@@ -83,7 +83,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #f3f6fa;
+		background: #d3c8c1;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -98,7 +98,7 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		color: #7c8081;
+		color: #1B262C;
 		font-family: 'Lato', sans-serif;
 		font-size: 15pt;
 		font-weight: 300;
@@ -2163,6 +2163,7 @@ input, select, textarea {
 		text-align: center;
 		text-decoration: none;
 		text-transform: uppercase;
+		background: #1b262c93;
 	}
 
 		input[type="button"]:hover,
@@ -2179,8 +2180,8 @@ input, select, textarea {
 		input[type="reset"].primary,
 		button.primary,
 		.button.primary {
-			background: #83d3c9;
-			border-color: #83d3c9;
+			background: #0F4C75;
+			border-color: #0F4C75;
 			color: #fff !important;
 		}
 
@@ -2189,8 +2190,8 @@ input, select, textarea {
 			input[type="reset"].primary:hover,
 			button.primary:hover,
 			.button.primary:hover {
-				background: #96dad1 !important;
-				border-color: #96dad1 !important;
+				background: #1B262C !important;
+				border-color: #1B262C !important;
 			}
 
 		input[type="button"].fit,
@@ -2223,7 +2224,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-color: #83d3c9;
+			background-color: #2c557a;
 			background-image: url("images/light-bl.svg"), url("images/light-br.svg");
 			background-position: bottom left, bottom right;
 			background-repeat: no-repeat, no-repeat;
@@ -2264,8 +2265,8 @@ input, select, textarea {
 		}
 
 		.wrapper.style4 {
-			background: #fff;
-			color: inherit;
+			background: #2c557a;
+			color: #fff;
 			padding: 4em;
 		}
 
@@ -2312,7 +2313,7 @@ input, select, textarea {
 	}
 
 	#header {
-		background: #fff;
+		background: #bca797;
 		box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.075);
 		color: inherit;
 		cursor: default;
@@ -2485,7 +2486,7 @@ input, select, textarea {
 			}
 
 			.dropotron > li:hover > a {
-				background: #83d3c9;
+				background: #506D84;
 				color: #fff;
 			}
 
@@ -2557,7 +2558,7 @@ input, select, textarea {
 			-webkit-animation-fill-mode: forwards;
 			-ms-animation-fill-mode: forwards;
 			animation-fill-mode: forwards;
-			background: rgba(52, 27, 43, 0.5);
+			background: #1B262C72;
 			color: #fff;
 			display: inline-block;
 			opacity: 0;
@@ -2635,7 +2636,7 @@ input, select, textarea {
 
 	#cta {
 		background-attachment: scroll, scroll, scroll, fixed;
-		background-color: #645862;
+		background-color: #3282B8;
 		background-image: url("images/light-tl.svg"), url("images/light-tr.svg"), url("images/overlay.png"), url("../../images/banner.jpg");
 		background-position: top left, top right, top left, bottom center;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
@@ -2665,7 +2666,7 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		background: #E8EEF4;
+		background: #d3c8c1;
 		color: #7c8081;
 		padding: 5em 5em 10em 5em;
 		text-align: center;
