@@ -3194,6 +3194,10 @@ input, select, textarea {
 				text-align: justify;
 			}
 
+			#banner {
+				height: 400px;
+			}
+
 		/* Section/Article */
 
 			header {
