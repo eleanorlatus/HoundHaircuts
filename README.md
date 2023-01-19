@@ -1,6 +1,6 @@
 # HoundHaircuts
 
-![image](https://user-images.githubusercontent.com/90465357/213476903-d625f983-b255-49c0-bbc2-892618af9664.png)
+![image](https://user-images.githubusercontent.com/90465357/213479388-9529c968-1c27-4fc0-ba95-becd34295ee0.png)
 
 A site for a local dog grooming business advertising their salon, includes description of their services with prices and a submission form for bookings and general enquiries.
 
