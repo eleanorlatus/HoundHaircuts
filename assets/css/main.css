@@ -2553,7 +2553,7 @@ input, select, textarea {
 		cursor: default;
 		padding: 4em 0;
 		text-align: center;
-		height: 500px;
+		height: 700px;
 	}
 
 		#banner .inner {
@@ -2719,7 +2719,7 @@ input, select, textarea {
 			}
 		
 		#banner {
-				height: 700px;
+				height: 600px;
 			}
 
 	}
@@ -2779,8 +2779,10 @@ input, select, textarea {
 				padding: 4em;
 				background-attachment: scroll;
 			}
-
-			
+		
+		#banner {
+				height: 400px;
+			}
 
 		/* Footer */
 
